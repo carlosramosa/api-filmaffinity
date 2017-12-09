@@ -50,7 +50,7 @@ Se trata de una API no oficial, por lo que blablabla...
 * Búsqueda de una película a través de su id :
     * GET https://api-filmaffinity.herokuapp.com/api/pelicula/470268
     * GET https://api-filmaffinity.herokuapp.com/api/pelicula/267008
-
+```json
     {
         titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma",
         anio: "1999",
@@ -70,7 +70,7 @@ Se trata de una API no oficial, por lo que blablabla...
             real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico
             y remoto planeta de Tatooine..."
     }
-
+```
 
 ## Request & Response Examples
 
