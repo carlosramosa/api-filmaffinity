@@ -1,16 +1,21 @@
 {
   "name": "mi-api",
-  "version": "1.0.0",
-  "main": "server.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "node ./bin/www"
   },
   "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "stylus": "0.54.5",
     "after-load": "^1.0.4",
-    "body-parser": "~1.0.1",
     "cheerio": "^1.0.0-rc.2",
-    "express": "~4.0.0",
     "html": "^1.0.0",
     "htmlparser": "^1.7.7",
     "http": "0.0.0",
@@ -18,9 +23,5 @@
     "nodemon": "^1.12.5",
     "swagger": "^0.7.5",
     "swagger-ui-express": "^2.0.11"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {},
-  "description": ""
+  }
 }
