@@ -22,7 +22,7 @@ router.get('/:busqueda', function(req, res, next) {
             const itemsValidos = [];
 
             items.map(function(item){
-                if (item.link.indexOf('http://www.filmaffinity.com/es/film')!== -1){
+                if (item.link.indexOf('www.filmaffinity.com/es/film')!== -1){
                     const pelicula = {
                         titulo : item.title.replace(' - FilmAffinity',''),
                         id: item.link.replace('http://www.filmaffinity.com/es/film','').replace('.html','')

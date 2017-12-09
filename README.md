@@ -38,7 +38,7 @@ Se trata de una API no oficial, por lo que blablabla...
 ```json
     [
         {
-            titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma (1999 ...",
+            titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma (1999)",
             id: "267008"
         },
         {
