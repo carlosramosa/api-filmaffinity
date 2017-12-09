@@ -50,25 +50,26 @@ Se trata de una API no oficial, por lo que blablabla...
 * Búsqueda de una película a través de su id :
     * GET https://api-filmaffinity.herokuapp.com/api/pelicula/470268
     * GET https://api-filmaffinity.herokuapp.com/api/pelicula/267008
-        {
-            titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma",
-            anio: "1999",
-            direccion: "George Lucas",
-            reparto: "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Samuel L. Jackson,
-                Ian McDiarmid, Ray Park, Anthony Daniels, Kenny Baker, Pernilla August, Hugh Quarshie,
-                Ahmed Best, Andy Secombe, Frank Oz, Terence Stamp, Keira Knightley, Oliver Ford Davies,
-                Ralph Brown, Warwick Davis, Sofia Coppola, Dominic West, Silas Carson",
-            sinopsis: "Ambientada treinta años antes que 'La guerra de las galaxias' (1977), muestra la
-                infancia de Darth Vader, el pasado de Obi-Wan Kenobi y el resurgimiento de los Sith,
-                los caballeros Jedi dominados por el Lado Oscuro. La   Federación de Comercio ha bloqueado
-                el pequeño planeta de Naboo, gobernado por la joven Reina Amidala; se trata de un plan
-                ideado por Sith Darth Sidious, que, manteniéndose en el anonimato, dirige a los neimoidianos,
-                que están al mando de la Federación. El Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi
-                convencen a Amidala para que vaya a Coruscant, la capital de la República y sede del Consejo
-                Jedi, y trate de neutralizar esta amenaza. Pero, al intentar esquivar el bloqueo, la nave
-                real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico
-                y remoto planeta de Tatooine..."
-        }
+
+    {
+        titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+        anio: "1999",
+        direccion: "George Lucas",
+        reparto: "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Samuel L. Jackson,
+            Ian McDiarmid, Ray Park, Anthony Daniels, Kenny Baker, Pernilla August, Hugh Quarshie,
+            Ahmed Best, Andy Secombe, Frank Oz, Terence Stamp, Keira Knightley, Oliver Ford Davies,
+            Ralph Brown, Warwick Davis, Sofia Coppola, Dominic West, Silas Carson",
+        sinopsis: "Ambientada treinta años antes que 'La guerra de las galaxias' (1977), muestra la
+            infancia de Darth Vader, el pasado de Obi-Wan Kenobi y el resurgimiento de los Sith,
+            los caballeros Jedi dominados por el Lado Oscuro. La   Federación de Comercio ha bloqueado
+            el pequeño planeta de Naboo, gobernado por la joven Reina Amidala; se trata de un plan
+            ideado por Sith Darth Sidious, que, manteniéndose en el anonimato, dirige a los neimoidianos,
+            que están al mando de la Federación. El Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi
+            convencen a Amidala para que vaya a Coruscant, la capital de la República y sede del Consejo
+            Jedi, y trate de neutralizar esta amenaza. Pero, al intentar esquivar el bloqueo, la nave
+            real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico
+            y remoto planeta de Tatooine..."
+    }
 
 
 ## Request & Response Examples
