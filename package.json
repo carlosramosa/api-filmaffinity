@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "nodemon ./bin/www",
+    "lazygit":"git add .; git commit -m'commit'; git push origin master"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
