@@ -59,13 +59,13 @@ Se trata de una API no oficial, por lo que blablabla...
             Thomas Mitchell, Barbara O'Neil, Butterfly McQueen, Ona Munson, Ann Rutherford, Evelyn
             Keyes, Mickey Kuhn, Ward Bond",
         sinopsis: "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara
-        (Vivien Leigh), la joven más bella, caprichosa y egoísta de la región. Ella suspira por
-        el amor de Ashley (Leslie Howard), pero él está prometido con su prima, la dulce y
-        bondadosa Melanie (Olivia de Havilland). En la última fiesta antes del estallido de la
-        Guerra de Secesión (1861-1865), Scarlett conoce al cínico y apuesto Rhett Butler
-        (Clark Gable), un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no
-        tiene ninguna intención de participar en la contienda. Lo único que él desea es hacerse
-        rico y conquistar el corazón de la hermosa Scarlett."
+            (Vivien Leigh), la joven más bella, caprichosa y egoísta de la región. Ella suspira
+            por el amor de Ashley (Leslie Howard), pero él está prometido con su prima, la dulce y
+            bondadosa Melanie (Olivia de Havilland). En la última fiesta antes del estallido de la
+            Guerra de Secesión (1861-1865), Scarlett conoce al cínico y apuesto Rhett Butler
+            (Clark Gable), un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no
+            tiene ninguna intención de participar en la contienda. Lo único que él desea es hacerse
+            rico y conquistar el corazón de la hermosa Scarlett."
     }
 ```
 
