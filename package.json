@@ -1,0 +1,26 @@
+{
+  "name": "mi-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "body-parser": "~1.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "~4.0.0",
+    "html": "^1.0.0",
+    "htmlparser": "^1.7.7",
+    "http": "0.0.0",
+    "mongoose": "~3.6.13",
+    "nodemon": "^1.12.5",
+    "swagger": "^0.7.5",
+    "swagger-ui-express": "^2.0.11"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
