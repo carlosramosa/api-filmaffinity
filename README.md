@@ -52,7 +52,7 @@ Se trata de una API no oficial, por lo que blablabla...
     * GET https://api-filmaffinity.herokuapp.com/api/pelicula/267008
 ```json
     {
-        titulo: "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+        titulo: "La guerra delas galaxias. Episodio I: La amenaza fantasma",
         anio: "1999",
         direccion: "George Lucas",
         reparto: "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Samuel L. Jackson,
